@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Tracky: Track Goal Android",
+    "desc": "Tracky is an Android App that assists you in achieving success by keeping track of your daily goals.",
+    "image": "tracky",
+    "category": "native_android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=achivementtrackerbyamit.example.achivetracker",
+      "code": "https://github.com/maityamit/Tracky-Track-your-goals-or-targets"
+    }
+  }
+]
