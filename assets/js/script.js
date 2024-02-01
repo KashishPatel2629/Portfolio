@@ -60,11 +60,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Kashish Patel";
-            $("#favicon").attr("href", "assets/images/favicon.ico");
+            $("#favicon").attr("href", "assets/images/favicon1.ico");
         }
         else {
             document.title = "Portfolio | Kashish Patel";
-            $("#favicon").attr("href", "assets/images/favicon.ico");
+            $("#favicon").attr("href", "assets/images/favicon1.ico");
         }
     });
 
