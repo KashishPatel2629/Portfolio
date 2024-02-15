@@ -215,6 +215,7 @@ header .navbar ul li a:hover{
   height: 100%;
   width:100%;
   object-fit: cover;
+  opacity: 80%;
 }
 .work .box-container .box .content{
   height: 100%;
@@ -224,7 +225,7 @@ header .navbar ul li a:hover{
   background:rgba(255, 255, 255, 0.9);
   display: flex;
   flex-direction: column;
-  opacity: 30%;
+  opacity: 80%;
 }
 .work .box-container .box .content .tag{
   display: flex;
@@ -237,10 +238,10 @@ header .navbar ul li a:hover{
   background: #ffd900;
 }
 .work .box-container .box .content .tag h3{
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 .work .box-container .box:hover .content{
-  top: 25%;
+  top: 3%;
 }
 .work .desc {
   margin: 2rem;
@@ -249,7 +250,8 @@ header .navbar ul li a:hover{
   justify-content: center;
 }
 .work .desc p{
-  font-size: 1.5rem;
+  font-size: 1rem;
+  font-weight: 900;
 }
 .work .desc .btns{
   display: flex;
