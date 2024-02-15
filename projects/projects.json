@@ -1,12 +1,23 @@
 [
   {
-    "name": "Tracky: Track Goal Android",
-    "desc": "Tracky is an Android App that assists you in achieving success by keeping track of your daily goals.",
-    "image": "tracky",
-    "category": "native_android",
+    "name": "Depressscape: depression monitoring app",
+    "desc": "Depressscape is a novel framework leveraging semantic analysis of social media content to detect early signs of depression, providing users with a 0-100 rating for their distress level. In cases of high depression rates, alerts are sent to emergency contacts. This multilingual system aims to facilitate timely intervention and support worldwide, utilizing natural language processing and predictive algorithms to anticipate future depression trends based on historical data.",
+    "image": "Designer",
+    "category": "library",
     "links": {
-      "view": "https://play.google.com/store/apps/details?id=achivementtrackerbyamit.example.achivetracker",
-      "code": "https://github.com/maityamit/Tracky-Track-your-goals-or-targets"
+      "view": "https://www.figma.com/file/Wu0UhRsBunXmiLf5F2eFsO/Depressscape?type=design&node-id=0%3A1&mode=design&t=wTlVJtATwNXdfTmP-1",
+      "code": "https://www.figma.com/file/Wu0UhRsBunXmiLf5F2eFsO/Depressscape?type=design&node-id=0%3A1&mode=design&t=wTlVJtATwNXdfTmP-1"
+    }
+  },
+  
+  {
+    "name": "Travel Planner",
+    "desc": "The Wanderlust Travel Planner app revolutionizes travel planning with its customizable approach and creative features. Through meticulous research, design, and agile development, it delivers a seamless user experience. By analyzing user preferences and conducting thorough testing, the app ensures relevance and usability. Its modular architecture guarantees scalability and performance, while prioritizing security and interoperability. With intuitive interfaces and personalized recommendations, Wanderlust redefines the travel experience, blending technology with exploration.",
+    "image": "travel",
+    "category": "hybrid_android",
+    "links": {
+      "view": "https://www.figma.com/file/Wu0UhRsBunXmiLf5F2eFsO/Depressscape?type=design&node-id=0%3A1&mode=design&t=wTlVJtATwNXdfTmP-1",
+      "code": "https://www.figma.com/file/Wu0UhRsBunXmiLf5F2eFsO/Depressscape?type=design&node-id=0%3A1&mode=design&t=wTlVJtATwNXdfTmP-1"
     }
   }
 ]

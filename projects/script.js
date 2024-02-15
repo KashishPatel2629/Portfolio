@@ -9,7 +9,7 @@ $(document).ready(function () {
         $('#menu').removeClass('fa-times');
         $('.navbar').removeClass('nav-toggle');
 
-        if (window.scrollY > 60) {
+        if (window.scrollY > 40) {
             document.querySelector('#scroll-top').classList.add('active');
         } else {
             document.querySelector('#scroll-top').classList.remove('active');
@@ -25,7 +25,7 @@ document.addEventListener('visibilitychange',
         }
         else {
             document.title = "Projects | Portfolio Kashish Patel";
-            $("#favicon").attr("href", "/assets/images/favicon.ico");
+            $("#favicon").atr("href", "/assets/images/favicon.ico");
         }
     });
 
