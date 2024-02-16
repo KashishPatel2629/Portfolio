@@ -19,5 +19,16 @@
       "view": "https://www.figma.com/file/F2pOMV22n1DiL860j1r8l6/wireframe-travel-planning?type=design&node-id=0%3A1&mode=design&t=kfd1pMwOOk5DFrtr-1",
       "code": "https://www.figma.com/file/F2pOMV22n1DiL860j1r8l6/wireframe-travel-planning?type=design&node-id=0%3A1&mode=design&t=kfd1pMwOOk5DFrtr-1"
     }
+  },
+
+  {
+    "name": "Portfolio",
+    "desc": "I created my own portfoil using HTML, CSS, and JavaScript. I used Figma to design the wireframe and then I used the wireframe to create the website. I used JavaScript to create the hamburger menu and the contact form. I used CSS to style the website and make it responsive. I used HTML to create the structure of the website. I used GitHub to host the website.",
+    "image": "portfolio",
+    "category": "web_app",
+    "links": {
+      "view": "https://www.figma.com/file/F2pOMV22n1DiL860j1r8l6/wireframe-travel-planning?type=design&node-id=0%3A1&mode=design&t=kfd1pMwOOk5DFrtr-1",
+      "code": "https://www.figma.com/file/F2pOMV22n1DiL860j1r8l6/wireframe-travel-planning?type=design&node-id=0%3A1&mode=design&t=kfd1pMwOOk5DFrtr-1"
+    }
   }
 ]
