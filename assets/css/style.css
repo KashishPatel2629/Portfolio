@@ -673,6 +673,7 @@ header .navbar ul li a:hover {
   position: relative;
   overflow: hidden;
   height: 30rem;
+  border : none;
 }
 .work .box-container .box img {
   height: 100%;
