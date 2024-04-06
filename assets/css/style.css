@@ -669,7 +669,7 @@ header .navbar ul li a:hover {
 .work .box-container .box {
   flex: 1 1 30rem;
   border-radius: 0.5rem;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0.7rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
   height: 30rem;
@@ -696,13 +696,13 @@ header .navbar ul li a:hover {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 25rem;
+  height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
   background: #ffd900;
 }
 .work .box-container .box .content .tag h3 {
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 .work .box-container .box:hover .content {
   top: 3%;
@@ -714,8 +714,8 @@ header .navbar ul li a:hover {
   justify-content: justify;
 }
 .work .desc p {
-  font-weight: bold;
-  font-size: 1.2rem;
+  font-weight: 900;
+  font-size: 1rem;
 }
 .work .desc .btns {
   display: flex;
@@ -725,7 +725,7 @@ header .navbar ul li a:hover {
 }
 .work .desc .btns .btn {
   line-height: 0;
-  display: fixed;
+  display: inline;
   padding: 1.5rem 2.5rem;
   border-radius: 0.5rem;
   font-size: 1.5rem;

@@ -247,7 +247,7 @@ header .navbar ul li a:hover{
   margin: 2rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: justify;
 }
 .work .desc p{
   font-size: 1rem;
